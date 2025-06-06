@@ -1,0 +1,78 @@
+1. Remote OK
+✅ Focus: All tech roles, especially dev
+
+🧠 Tags like "React", "Full Stack", "Senior"
+
+🟢 High-quality listings, often startup-heavy
+
+2. We Work Remotely
+✅ One of the oldest and most trusted
+
+Categories: Full Stack, Frontend, Backend, DevOps
+
+🏢 Includes listings from major remote-friendly companies
+
+3. Stack Overflow Jobs (now via Stack Overflow Talent / Pros)
+✅ Trusted dev brand
+
+🔍 Filter by "remote only"
+
+🛠️ Higher-quality, sometimes fewer postings
+
+4. Himalayas
+✅ Remote-only job board
+
+🧭 Clear company remote culture and tech stack
+
+🆕 UI/UX focused, clean interface
+
+5. RemoteLeads (freelance-focused)
+🔍 For freelance or contract gigs
+
+✅ Aggregates high-quality leads
+
+💼 Ideal for indie/freelancers
+
+🧑‍💻 Dev-Focused Boards
+6. [GitHub Jobs (Sunset) → Try Jobs on GitHub Discussions]
+❗GitHub Jobs was shut down, but GitHub Discussions now has job sections
+
+🧑‍💻 Still a place recruiters look for devs
+
+7. Toptal
+🧠 High bar (screening process)
+
+✅ Good for senior developers
+
+💰 Higher pay, but selective
+
+8. Arc
+🚀 Curated for remote developers
+
+🧪 You can take a skills test and get fast-tracked
+
+9. AngelList Talent (now Wellfound)
+💼 Startup jobs — remote filter available
+
+✅ Good for early-stage startup roles
+
+💡 Best if you like fast-paced environments
+
+💼 Bonus: Freelance/Contract Marketplaces
+Upwork – freelance contracts, great if you’re starting out
+
+Fiverr – small task gigs, good for quick portfolio building
+
+Contra – modern, clean UI; freelance focus
+
+Freelancer – large volume, mixed quality
+
+📌 Recommendation
+If you're just getting started or looking for high-quality, ongoing remote work:
+
+🎯 Use Remote OK + Himalayas + Arc to find serious tech roles.
+
+🎯 Use Toptal or We Work Remotely if you're more senior.
+
+🎯 Wellfound is great for startup-focused devs.
+
