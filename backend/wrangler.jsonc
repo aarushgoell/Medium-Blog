@@ -38,7 +38,7 @@
   // }
 
   "vars": {
-    "DATABASE_URL": "prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiMDFKV1JOQUpRWkZKTlE5QzhWMEVCV041NzUiLCJ0ZW5hbnRfaWQiOiI2YmFkN2UxY2ZhNjhlZTBkNzNhMDdkZTE5YmIxZjk4NmFlOTliMmM3ZDhjMTM4NjBjYWVhMzc3MmI0MzhiMjgxIiwiaW50ZXJuYWxfc2VjcmV0IjoiODExYmY4YjQtYzJhOS00ZTc0LTk2MGQtODQ0OGNjNTI1M2VlIn0.w96zSAiVmZK_lHbFwg_zLapRSKg9vFQMvxrq5DyFpT0",
-    "JWT_SECRET": "secret"
+    "DATABASE_URL": "",
+    "JWT_SECRET": ""
   }
 }
